@@ -1,12 +1,4 @@
 {
-<<<<<<< HEAD
   "needs": ["accordion/content", "accordion/heading", "accordion/item"],
   "js": ["_ek_accordion.js"]
-=======
-  "needs": [
-    "accordion/content",
-    "accordion/heading",
-    "accordion/item"
-  ]
->>>>>>> 0592205bdec93c435117a044e9709258554ed1c5
 }
