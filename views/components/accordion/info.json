@@ -1,8 +1,4 @@
 {
-  "needs": [
-    "accordion/content",
-    "accordion/heading",
-    "accordion/item",
-    "accordion/content"
-  ]
+  "needs": ["accordion/content", "accordion/heading", "accordion/item"],
+  "js": ["_ek_accordion.js"]
 }
