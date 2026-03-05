@@ -1,4 +1,5 @@
 {
   "needs": ["accordion/content", "accordion/heading", "accordion/item"],
-  "js": ["_ek_accordion.js"]
+  "js": ["_ek_accordion.js"],
+  "scripts":["npm install --save smallest"]
 }
